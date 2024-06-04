@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "com.github.gasblg.stockshelper.preferences";
+option java_multiple_files = true;
+
+message UserPreferences{
+  string sortColumn = 1;
+  string sortOrder = 2;
+  string lang = 3;
+  string theme = 4;
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="features_derivatives_ticker">Тикер</string>
+    <string name="features_derivatives_name">Название</string>
+    <string name="features_derivatives_short_name">Короткое название</string>
+    <string name="features_derivatives_description">Описание</string>
+    <string name="features_derivatives_first_trade">Начало обращения</string>
+    <string name="features_derivatives_last_short">Последний день обращения</string>
+    <string name="features_derivatives_date_short">Дата исполнения</string>
+    <string name="features_derivatives_contract_type">Тип контракта</string>
+    <string name="features_derivatives_type">Тип</string>
+    <string name="features_derivatives_market">Рынок</string>
+    <string name="features_derivatives_derivatives">Деривативы</string>
+</resources>

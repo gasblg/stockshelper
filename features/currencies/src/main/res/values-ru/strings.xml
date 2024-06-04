@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="features_currencies_currencies">Курсы валют</string>
+    <string name="features_currencies_date_short">Дата</string>
+    <string name="features_currencies_type">Тип</string>
+    <string name="features_currencies_market">Рынок</string>
+    <string name="features_currencies_hide">Скрыть</string>
+    <string name="features_currencies_rub">%s \u20BD</string>
+</resources>

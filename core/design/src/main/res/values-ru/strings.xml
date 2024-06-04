@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="core_design_reload">Перезагрузить</string>
+    <string name="core_design_type">Тип</string>
+    <string name="core_design_loading">Загрузка\u002E\u002E\u002E</string>
+
+</resources>

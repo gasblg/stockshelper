@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.StocksHelper" parent="Theme.AppCompat.DayNight.NoActionBar"/>
+
+
+    <style name="Theme.StocksHelper.SplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_splash</item>
+        <item name="postSplashScreenTheme">@style/Theme.StocksHelper</item>
+        <item name="windowSplashScreenBackground">@color/background</item>
+        <item name="android:windowSplashScreenIconBackgroundColor" tools:targetApi="s">@color/background</item>
+        <item name="splashScreenIconSize">10dp</item>
+
+    </style>
+
+</resources>

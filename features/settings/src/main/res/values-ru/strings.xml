@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="features_settings_settings">Настройки</string>
+    <string name="features_settings_language">Язык</string>
+    <string name="features_settings_ok">OK</string>
+    <string name="features_settings_ru">русский</string>
+    <string name="features_settings_en">английский</string>
+    <string name="features_settings_theme">Тема</string>
+    <string name="features_settings_light">светлая</string>
+    <string name="features_settings_dark">темная</string>
+    <string name="features_settings_loading">загрузка</string>
+</resources>

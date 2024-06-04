@@ -1,0 +1,15 @@
+<resources>
+    <string name="features_shares_app_name">StocksHelper</string>
+    <string name="features_shares_history">History</string>
+    <string name="features_shares_favorites">Favorites</string>
+    <string name="features_shares_hide">Hide</string>
+    <string name="features_shares_date">date: %s</string>
+    <string name="features_shares_rub">%s \u20BD</string>
+    <string name="features_shares_open_with">Open with:</string>
+    <string name="features_shares_open">open: %s</string>
+    <string name="features_shares_close">close: %s</string>
+    <string name="features_shares_low">low: %s</string>
+    <string name="features_shares_high">high: %s</string>
+    <string name="features_shares_online">online</string>
+    <string name="features_shares_offline">offline</string>
+</resources>

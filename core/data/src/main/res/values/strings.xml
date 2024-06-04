@@ -1,0 +1,4 @@
+<resources>
+    <string name="core_data_yesterday">yesterday</string>
+    <string name="core_data_today">today</string>
+</resources>

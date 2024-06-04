@@ -1,0 +1,8 @@
+<resources>
+    <string name="core_models_stock">Stock</string>
+    <string name="core_models_currency">Currency</string>
+    <string name="core_models_derivatives">Derivatives</string>
+    <string name="core_models_futures">Futures</string>
+    <string name="core_models_options">Options</string>
+    <string name="core_models_shares">Shares</string>
+</resources>

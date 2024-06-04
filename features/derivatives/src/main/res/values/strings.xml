@@ -1,0 +1,13 @@
+<resources>
+    <string name="features_derivatives_ticker">Ticker</string>
+    <string name="features_derivatives_name">Name</string>
+    <string name="features_derivatives_short_name">Short name</string>
+    <string name="features_derivatives_description">Description</string>
+    <string name="features_derivatives_first_trade">First trading day</string>
+    <string name="features_derivatives_last_short">Last trading day</string>
+    <string name="features_derivatives_date_short">Delivery</string>
+    <string name="features_derivatives_contract_type">Settlement</string>
+    <string name="features_derivatives_type">Type</string>
+    <string name="features_derivatives_market">Market</string>
+    <string name="features_derivatives_derivatives">Derivatives</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="features_settings_settings">Settings</string>
+    <string name="features_settings_language">Language</string>
+    <string name="features_settings_ok">OK</string>
+    <string name="features_settings_ru">ru</string>
+    <string name="features_settings_en">en</string>
+    <string name="features_settings_theme">Theme</string>
+    <string name="features_settings_light">light</string>
+    <string name="features_settings_dark">dark</string>
+    <string name="features_settings_loading">loading</string>
+</resources>

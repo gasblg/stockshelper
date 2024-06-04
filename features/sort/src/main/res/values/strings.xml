@@ -1,0 +1,12 @@
+<resources>
+    <string name="features_sort_ok">OK</string>
+    <string name="features_sort_order_by">Order by</string>
+    <string name="features_sort_percents">Percents</string>
+    <string name="features_sort_ticker">Ticker</string>
+    <string name="features_sort_name">Name</string>
+    <string name="features_sort_loading">loading</string>
+    <string name="features_sort_asc_alphabet">from A to Z</string>
+    <string name="features_sort_desc_alphabet">from Z to A</string>
+    <string name="features_sort_asc">ascending</string>
+    <string name="features_sort_desc">descending</string>
+</resources>

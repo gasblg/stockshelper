@@ -1,0 +1,8 @@
+<resources>
+    <string name="features_currencies_currencies">Currencies</string>
+    <string name="features_currencies_date_short">Date</string>
+    <string name="features_currencies_type">Type</string>
+    <string name="features_currencies_market">Market</string>
+    <string name="features_currencies_hide">Hide</string>
+    <string name="features_currencies_rub">%s \u20BD</string>
+</resources>

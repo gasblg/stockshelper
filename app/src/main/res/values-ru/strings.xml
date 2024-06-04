@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="news">Новости</string>
+    <string name="currencies">Курсы валют</string>
+    <string name="shares">Акции</string>
+    <string name="no_internet">Нет соединения с интернетом</string>
+</resources>

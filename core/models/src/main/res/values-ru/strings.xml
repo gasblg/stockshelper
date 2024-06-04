@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="core_models_stock">Фондовый</string>
+    <string name="core_models_currency">Валютный</string>
+    <string name="core_models_derivatives">Деривативы</string>
+    <string name="core_models_futures">Фьючерсы</string>
+    <string name="core_models_options">Опционы</string>
+    <string name="core_models_shares">Акции</string>
+</resources>

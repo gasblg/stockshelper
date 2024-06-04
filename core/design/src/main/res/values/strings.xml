@@ -1,0 +1,6 @@
+<resources>
+    <string name="core_design_reload">Reload</string>
+    <string name="core_design_type">Type</string>
+    <string name="core_design_loading">Loading\u002E\u002E\u002E</string>
+
+</resources>

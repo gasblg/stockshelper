@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="features_sort_ok">OK</string>
+    <string name="features_sort_order_by">Сортировка</string>
+    <string name="features_sort_percents">Проценты</string>
+    <string name="features_sort_ticker">Тикер</string>
+    <string name="features_sort_name">Название</string>
+    <string name="features_sort_loading">загрузка</string>
+    <string name="features_sort_asc_alphabet">от А до Я</string>
+    <string name="features_sort_desc_alphabet">от Я до А</string>
+    <string name="features_sort_asc">по возростанию</string>
+    <string name="features_sort_desc">по убыванию</string>
+</resources>
